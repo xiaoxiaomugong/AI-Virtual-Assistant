@@ -1,5 +1,3 @@
-# AI-Virtual-Assistant
-An AI Virtual Assistant is a smart software program designed to help humans complete daily tasks and answer questions using artificial intelligence. It acts like a digital helper that you can talk to or text.
 # AI Virtual Assistant (智能客服与知识库系统)
 
 这是一个基于RAG (Retrieval-Augmented Generation，检索增强生成) 技术的智能客服和文档问答系统。项目使用 Streamlit 构建可视化交互界面，结合本地或云端大模型（如阿里云 DashScope/通义千问）和 ChromaDB 向量数据库，实现基于自有知识库的智能问答。
